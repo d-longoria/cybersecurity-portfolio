@@ -1,4 +1,4 @@
-# cybersecurity-portfolio
+# Cybersecurity-Portfolio
 <a href="www.linkedin.com/in/daniel-longoria-jr"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&lo=linkedin&logoColor=white" /></a>
 
 Hello, I'm Daniel. Welcome to my cybersecurity portfolio!
@@ -23,9 +23,9 @@ My current goals are to continue passing my SANS courses and certifications, whi
 
 | Skill                                                    | Associated Projects       |
 |----------------------------------------------------------|---------------------------|
-| Password Cracking with Hashcat & John the Ripper         | GCIH Exam/NCL Fall 2025   |
-| WireShark Implementation and Network Traffic Analysis    | GCIH Exam/NCL Fall 2025   |
-| Port Scanning & Reconnaissance with Nmap & Netcat        | GCIH Exam/NCL Fall 2025   |
-| SIEM Implementation and Log Analysis                     | GSEC Exam/GCIH Exam/NCL Fall 2025 |
-| Programming with Python                                  | BACS 3373/SEC 573 + GPYC/NCL Fall 2025 |
-| Forensics analysis with Autopsy                          | NCL Fall 2025 |
+| Password Cracking with Hashcat & John the Ripper         | GCIH Exam/<a href="https://github.com/d-longoria/NCL-Fall-2025-CTF/blob/main/README.md">NCL Fall 2025</a>   |
+| WireShark Implementation and Network Traffic Analysis    | GCIH Exam/<a href="https://github.com/d-longoria/NCL-Fall-2025-CTF/blob/main/README.md">NCL Fall 2025</a>   |
+| Port Scanning & Reconnaissance with Nmap & Netcat        | GCIH Exam/<a href="https://github.com/d-longoria/NCL-Fall-2025-CTF/blob/main/README.md">NCL Fall 2025</a>   |
+| SIEM Implementation and Log Analysis                     | GSEC Exam/GCIH Exam/<a href="https://github.com/d-longoria/NCL-Fall-2025-CTF/blob/main/README.md">NCL Fall 2025</a> |
+| Programming with Python                                  | BACS 3373/SEC 573 + GPYC/<a href="https://github.com/d-longoria/NCL-Fall-2025-CTF/blob/main/README.md">NCL Fall 2025</a> |
+| Forensics analysis with Autopsy                          | <a href="https://github.com/d-longoria/NCL-Fall-2025-CTF/blob/main/README.md">NCL Fall 2025</a> |
